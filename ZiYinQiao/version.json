@@ -1,9 +1,9 @@
 ﻿{
 	"appName" : "ZiYinQiao",
 	"apkName" : "ZiYinQiao.apk",
-	"downloadUrl" : "https://pan.baidu.com/s/1T1Ja6XK1VL_7hsUPagtd5Q?pwd=lijp",
-	"versionName" : "1.0.1",
-	"versionCode" : 1,
+	"downloadUrl" : "https://pan.baidu.com/s/1LkQB_2VOReoxhCioT-CQDA?pwd=lijp",
+	"versionName" : "1.0.2",
+	"versionCode" : 2,
 	"force": false,
-	"notes" :  "\n\r初始版本。\n\r"
+	"notes" :  "\n\r 1、完善了闽南语语音合成。\n\r 2、增加了闽南语资源合集，内置闽南语电台播放功能。\n\n"
 }
