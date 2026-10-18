@@ -1,9 +1,9 @@
 ﻿{
 	"appName" : "ZiYinQiao",
 	"apkName" : "ZiYinQiao.apk",
-	"downloadUrl" : "https://pan.baidu.com/s/1LkQB_2VOReoxhCioT-CQDA?pwd=lijp",
-	"versionName" : "1.0.2",
-	"versionCode" : 2,
+	"downloadUrl" : "https://pan.baidu.com/s/1bs8SxoTZpDMsWH3cnoBUTw?pwd=lijp",
+	"versionName" : "1.0.3",
+	"versionCode" : 3,
 	"force": false,
-	"notes" :  "\n\r 1、完善了闽南语语音合成。\n\r 2、增加了闽南语资源合集，内置闽南语电台播放功能。\n\n"
+	"notes" :  "\n\r 1、完善了闽南语语音合成。\n\r 2、闽南语资源合集，增加了闽南文化网站。\n\n 3、增加了闽南风景名胜模块\n\n"
 }
