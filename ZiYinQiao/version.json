@@ -2,8 +2,8 @@
 	"appName" : "ZiYinQiao",
 	"apkName" : "ZiYinQiao.apk",
 	"downloadUrl" : "https://pan.baidu.com/s/166G9RWfBt9V1P9ToqZaSUQ?pwd=lijp",
-	"versionName" : "1.0.4",
-	"versionCode" : 4,
+	"versionName" : "1.0.5",
+	"versionCode" : 5,
 	"force": false,
 	"notes" :  "\n\r 1、界面全新改版。\n\r 2、若干功能优化。\n\n"
 }
